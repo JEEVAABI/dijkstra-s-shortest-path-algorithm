@@ -4,7 +4,7 @@
 To develop a code to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
 
 ## THEORY
-Explain the problem statement
+Best first search is a traversal technique that decides which node is to be visited next by checking which node is the most promising one and then check it. For this it uses an evaluation function to decide the traversal.
 
 ## DESIGN STEPS
 
